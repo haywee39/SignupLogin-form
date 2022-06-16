@@ -1,0 +1,116 @@
+body{
+    background-color:#344a72;
+    font-family: 'roboto',sans-serif;
+    margin-top: 50px;
+}
+#time{
+    text-align: right;
+    font-size: small;
+    font-style: oblique;
+    color: cornsilk;
+}
+
+.signup-box{  
+    margin: auto;
+    height: 620px;
+    width: 400px;
+    border: 1px solid black;
+    background-color:red;
+    border-radius: 3px;
+}
+h1{
+    text-align: center;
+    padding-top: 5px;
+}
+h4{
+    text-align: center;
+}
+form{
+    width: 300px;
+    margin-left:20px;
+}
+form label{
+    display: flex;
+    margin-top: 15px;
+}
+form input{
+    width: 350px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.sub{
+    width: 50%;
+    height: 2rem;
+    margin-top: auto;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 20px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    font-weight: bold;
+    
+}
+.sub a{
+    text-decoration: none;
+
+}
+
+.terms{
+    padding-top: 10px;
+    text-align: center;
+}
+.terms a{
+    text-decoration: none;
+}
+.log{
+    text-align: center;
+}
+.log a{
+    text-decoration: none;
+}
+
+/* below is the css for the login box */
+
+.login-box{
+    margin: auto;
+    height: 350px;
+    width: 400px;
+    border: 1px solid black;
+    background-color:red;
+    border-radius: 3px;
+}
+
+.para2{
+    text-align: center;
+    
+}
+.para2 a{
+    text-decoration: none;
+
+}
+
+.remember{
+    margin-top: 20px;
+    text-align:center;
+    place-items: left;
+}
+
+.sub2{
+    width: 50%;
+    height: 2rem;
+    margin-top: auto;
+    position: relative;
+    margin-left:25%;
+    margin-top: 20px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    font-weight: bold;
+    
+}
+
+.sub2 a{
+    text-decoration: none;
+
+}
